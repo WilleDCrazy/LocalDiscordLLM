@@ -61,7 +61,7 @@ Contributions to improve the prototype or extend its functionality are highly we
 
 ## License
 
-[MIT License](LICENSE.md) 
+MIT License
 
 ## Acknowledgments
 
